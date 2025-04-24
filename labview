@@ -1,0 +1,4 @@
+# 在LabVIEW项目根目录执行：
+git init
+git add .                # 添加所有文件（需包含.vi/.lvproj等）
+git commit -m "初始提交：物料管理系统核心代码"
