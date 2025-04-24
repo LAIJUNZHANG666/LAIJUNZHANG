@@ -2,3 +2,7 @@
 git init
 git add .                # 添加所有文件（需包含.vi/.lvproj等）
 git commit -m "初始提交：物料管理系统核心代码"
+git remote add origin https://github.com/LAIJUNZHANG666/LAIJUNZHANG.git
+git branch -M main       # 确保分支名为main
+git push -u origin main
+# 输入GitHub账号密码或PAT（Personal Access Token）
